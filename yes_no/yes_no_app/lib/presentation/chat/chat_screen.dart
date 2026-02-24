@@ -60,5 +60,6 @@ Container viene a ser como un div. Lo que hicimos fue click derecho, extract wid
 Es como una caja que puede tener color, tamaño, bordes, etc.
 Column, retornamos column, porque nos permite colocar varios widgets internos
 SafeArea delimita a un area segura el contenido de container
-Expanded 
+Expanded estira el listview para que ocupe toda la columna
+Listview es un widget que muestra sus hijos en una lista desplazable (scrollable)
 */
